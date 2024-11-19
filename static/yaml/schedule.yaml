@@ -293,11 +293,13 @@
       - date:           Thu 11/21
         assignment:     Progress 03
         items:
+          - name:       "Void/Arch"
+            type:       presentation
           - name:       "NixOS"
             type:       presentation
           - name:       "SteamOS"
             type:       presentation
-          - name:       "LLVM"
+          - name:       "TempleOS"
             type:       presentation
       
       - date:           Sun 11/24
@@ -319,14 +321,16 @@
 - name:     Revolution OS
   days:
       - date:           Tue 12/03
-        topics:         Revolution OS
-
-      - date:           Thu 12/05
         items:
+          - name:       "Flutter"
+            type:       presentation
           - name:       "AUR"
             type:       presentation
           - name:       "Flatpak"
             type:       presentation
+
+      - date:           Thu 12/05
+        topics:         Hackathon
       
       - date:           Sun 12/08
         topics:         Individual Reflection
@@ -335,8 +339,8 @@
 - name:     Project 03
   days:
       - date:           Tue 12/10
-        topics:         Hackathon
+        topics:         Presentations (Contributions)
 
       - date:           Thu 12/12
-        topics:         Presentations
+        topics:         Presentations (Just For Fun)
         assignment:     Project 03
