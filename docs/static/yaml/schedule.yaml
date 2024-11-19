@@ -259,11 +259,20 @@
 
       - date:           Thu 11/14
         items:
+          - name:       "Bug Bounties"
+            link:       https://docs.google.com/presentation/d/1aBdh9k1MUKoVUB6DvoInU9Ku5DpQwuMIYQRi2Z_KAB4/edit?usp=sharing
+            type:       presentation
           - name:       "Twitch / YouTube Streams"
+            link:       https://www.figma.com/proto/QWUcrFYXbcXXSDRnyYqz4z/Untitled?node-id=3-16&node-type=canvas&t=QDjasYkTyoGGsT9l-0&scaling=contain&content-scaling=fixed&page-id=0%3A1
             type:       presentation
           - name:       "Patreon"
+            link:       https://docs.google.com/presentation/d/1Ks5Mv-_o24psgxK0xLiGqMFeXZN8S4Ns/edit?usp=drive_link
             type:       presentation
           - name:       "Microtransactions"
+            link:       https://docs.google.com/presentation/d/1DnUOtbvMXurcTsLJ7J1Dh8e5s8eRqHywoJv-CW0Z1x0/edit?usp=drive_link
+            type:       presentation
+          - name:       "FUTO"
+            link:       https://docs.google.com/presentation/d/1UKpilUwK45uc7evlCatm27lrcZsqWz-dCH_yBVDTDQc/edit?usp=drive_link
             type:       presentation
 
       - date:           Sun 11/17
@@ -284,11 +293,13 @@
       - date:           Thu 11/21
         assignment:     Progress 03
         items:
+          - name:       "Void/Arch"
+            type:       presentation
           - name:       "NixOS"
             type:       presentation
           - name:       "SteamOS"
             type:       presentation
-          - name:       "LLVM"
+          - name:       "TempleOS"
             type:       presentation
       
       - date:           Sun 11/24
@@ -310,14 +321,16 @@
 - name:     Revolution OS
   days:
       - date:           Tue 12/03
-        topics:         Revolution OS
-
-      - date:           Thu 12/05
         items:
+          - name:       "Flutter"
+            type:       presentation
           - name:       "AUR"
             type:       presentation
           - name:       "Flatpak"
             type:       presentation
+
+      - date:           Thu 12/05
+        topics:         Hackathon
       
       - date:           Sun 12/08
         topics:         Individual Reflection
@@ -326,8 +339,8 @@
 - name:     Project 03
   days:
       - date:           Tue 12/10
-        topics:         Hackathon
+        topics:         Presentations (Contributions)
 
       - date:           Thu 12/12
-        topics:         Presentations
+        topics:         Presentations (Just For Fun)
         assignment:     Project 03
