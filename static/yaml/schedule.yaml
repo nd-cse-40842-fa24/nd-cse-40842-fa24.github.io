@@ -294,12 +294,16 @@
         assignment:     Progress 03
         items:
           - name:       "Void/Arch"
+            link:       https://docs.google.com/presentation/d/1Nq8c_3iOQyZA5gu8AE37mLj8RQQyknOahlHDTVaLnhw/edit
             type:       presentation
           - name:       "NixOS"
+            link:       https://docs.google.com/presentation/d/1rGVrW72S0fZTtuWg_v-7cO1iVpVpw82mrfu_6Sa3bfQ/edit
             type:       presentation
           - name:       "SteamOS"
+            link:       https://docs.google.com/presentation/d/1SsV3_EpK_tM7NRCehWXFzXuy7mdBzpWB-ZrVIIlya7o/edit
             type:       presentation
           - name:       "TempleOS"
+            link:       https://docs.google.com/presentation/d/1nn31GBgdpMHfxL7jQta4U7y3mVFmM1W1uscAeo59_lI/edit
             type:       presentation
       
       - date:           Sun 11/24
