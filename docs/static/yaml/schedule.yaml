@@ -326,12 +326,21 @@
   days:
       - date:           Tue 12/03
         items:
-          - name:       "Flutter"
+          - name:       "Knoppix"
+            link:       https://docs.google.com/presentation/u/2/d/1qSUMhWGojYNHcrw5KO8x6aKaS7DaCGsMhc2e29FS49w/edit
+            type:       presentation
+          - name:       "Kali"
+            link:       https://docs.google.com/presentation/d/1XZT1BMAddXsS61GHzKnqPElTIBR-KmuyTMlggv4wmeo/edit?usp=sharing
             type:       presentation
           - name:       "AUR"
+            link:       https://docs.google.com/presentation/d/13Ryy4zkPwIQEoVQ96GiEPx7HGfUIRsHdYMEJRTnV6bY/edit?usp=sharing
             type:       presentation
           - name:       "Flatpak"
+            link:       https://docs.google.com/presentation/d/1pz__oZVYuDE6s0SNm_DOycLoQHENN4mHSWGWe7EycOI/edit?usp=sharing
             type:       presentation
+          - name:       "AppImage"
+            type:       presentation
+            link:       https://www.canva.com/design/DAGYCMSDdtQ/44UQF1hZn6VQHPoTJDgB5w/edit
 
       - date:           Thu 12/05
         topics:         Hackathon
